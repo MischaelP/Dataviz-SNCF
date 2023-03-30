@@ -127,9 +127,11 @@ h4{
     grid-area: Charlie;
     background-color: #d7d7d7;
     border-radius: 9px;
+    
 }
 .Charlie p h4{
     text-align: center;
+    
 }
 .Delta{
     grid-area: Delta;
