@@ -362,7 +362,7 @@ function proprete () {
   new Chart(ctx, {
     type: 'line',
     data: {
-      labels: ['Taux 2019', 'Taux 2020', 'Taux 2021', 'Taux 2022', 'Taux 2022'],
+      labels: ['Taux 2019', 'Taux 2020', 'Taux 2021', 'Taux 2022', 'Taux 2023'],
       datasets: [
         {
         label: 'Taux de propreté en gare',
