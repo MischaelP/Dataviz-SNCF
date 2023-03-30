@@ -51,6 +51,9 @@
     border-radius: 8px;
 }
 
+.c img{
+    margin-bottom: 20%;
+}
 .d {
     grid-area: d;
     padding: 10%;

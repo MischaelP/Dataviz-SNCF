@@ -22,11 +22,14 @@ Violet #7e1c71 (dégradé logo)
 
 .logoAda {
     width: 5em;
+    margin-right: 1%;
+    margin-bottom: 1.25%;
    
 }
 
 body {
     background-color: white;
+
 }
 
 .headerCamille {
